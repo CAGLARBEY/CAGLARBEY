@@ -7,8 +7,6 @@
 
 - 🌱 I’m currently learning **Aİ**
 
-- 📝 I regularly write articles on [makale](makale)
-
 - 💬 Ask me about **Cyber Security , Ethical Hacking**
 
 - 📫 How to reach me **djfsjfd**
