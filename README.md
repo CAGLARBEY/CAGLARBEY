@@ -1,25 +1,48 @@
-<h1 align="center">Hi 👋, I'm Çağlar</h1>
-<h3 align="center">Mechatronics Engineer and cybersecurity enthusiast. 🚀 I enjoy challenging my opponents on the badminton court and getting lost in the worlds of history and psychology through books. 📚💡 While working on cybersecurity projects on my GitHub account, I strive to contribute to the security of the digital world. 💻💂‍♂️</h3>
+# Çağlar Kapçak | Mekatronik Mühendisi & Teknoloji Geliştirici
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=caglarbey&label=Profile%20views&color=0e75b6&style=flat" alt="caglarbey" /> </p>
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=4000&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Mekatronik+Mühendisi;Python+Geliştirici;Otomasyon+Uzmanı;Veri+Bilimi+Meraklısı;Siber+Güvenlik+Araştırmacısı" alt="Yazı Animasyonu" />
+</div>
 
-- 🔭 I’m currently working on **Cyber Security Tools**
+## 🔧 Teknik Becerilerim
 
-- 🌱 I’m currently learning **Aİ**
+### 🖥️ Yazılım Geliştirme
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![MATLAB](https://img.shields.io/badge/Matlab-0076A8?style=for-the-badge&logo=Mathworks&logoColor=white)
 
-- 💬 Ask me about **Cyber Security , Ethical Hacking**
+### 🔌 Donanım & Gömülü Sistemler
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=Raspberry%20Pi&logoColor=white)
 
-- 📫 How to reach me **caglarkapcak433@gmail.com**
+### 📊 Veri Bilimi & Yapay Zeka
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 
-- 📄 Know about my experiences [https://medium.com/@caglarkapcak433](https://medium.com/@caglarkapcak433)
+### 🛡️ Siber Güvenlik
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
+![Metasploit](https://img.shields.io/badge/Metasploit-258FFA?style=for-the-badge&logo=metasploit&logoColor=white)
 
-- ⚡ Fun fact **https://medium.com/@caglarkapcak433**
+## 🚀 Öne Çıkan Projelerim
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+### 🤖 Mekatronik & Otomasyon
+[![Proje Kartı](https://github-readme-stats.vercel.app/api/pin/?username=caglarbey&repo=endustriyel-robot-kontrol)](https://github.com/caglarbey/endustriyel-robot-kontrol)
+[![Proje Kartı](https://github-readme-stats.vercel.app/api/pin/?username=caglarbey&repo=plc-otomasyon)](https://github.com/caglarbey/plc-otomasyon)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+### 🐍 Python Uygulamaları
+[![Proje Kartı](https://github-readme-stats.vercel.app/api/pin/?username=caglarbey&repo=pyqt-masaustu-uygulamalar)](https://github.com/caglarbey/pyqt-masaustu-uygulamalar)
+[![Proje Kartı](https://github-readme-stats.vercel.app/api/pin/?username=caglarbey&repo=islem-otomasyon)](https://github.com/caglarbey/islem-otomasyon)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=caglarbey&" alt="caglarbey" /></p>
+## 📈 GitHub İstatistiklerim
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=caglarbey&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caglarbey&layout=compact&langs_count=8&theme=radical"/>
+</div>
+
+## 📬 İletişim Bilgilerim
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/profiliniz)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@caglarkapcak433)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:caglarkapcak433@gmail.com)
