@@ -1,103 +1,97 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Çağlar%20Kapcak&fontSize=60&fontAlignY=35&animation=fadeIn" alt="Header" />
-  
-  <h3>⚡ Mekatronik Mühendisi | Siber Güvenlik Uzmanı | Python Geliştirici ⚡</h3>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=800&lines=Mekatronik+Mühendisi+%7C+Siber+Güvenlik+Uzmanı+%7C+Python+Geliştirici;Veri+Bilimi+Meraklısı+%7C+Otomasyon+Uzmanı+%7C+AI+Enthusiast" alt="Dynamic Typing" />
   
   ![GitHub Snake Light](https://raw.githubusercontent.com/caglarbey/caglarbey/output/github-contribution-grid-snake.svg#gh-light-mode-only)
   ![GitHub Snake Dark](https://raw.githubusercontent.com/caglarbey/caglarbey/output/github-contribution-grid-snake.svg#gh-dark-mode-only)
 </div>
 
-## 🛠️ Teknoloji Stack'im
+## 🔥 Teknoloji Stack'im
 
 <div align="center">
+  <h3>💻 Programlama Dilleri</h3>
+  <img src="https://skillicons.dev/icons?i=python,cpp,cs,matlab,java&theme=dark" alt="Programming Languages" />
   
-  ### **Yazılım Geliştirme**
-  ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-  ![C#](https://img.shields.io/badge/-C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-  ![MATLAB](https://img.shields.io/badge/-MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
-  ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+  <h3>📊 Veri Bilimi & AI</h3>
+  <img src="https://skillicons.dev/icons?i=pandas,numpy,tensorflow,pytorch,keras,scikit&theme=dark" alt="Data Science" />
   
-  ### **Donanım & IoT**
-  ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
-  ![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=for-the-badge&logo=raspberry-pi&logoColor=white)
-  ![PLC](https://img.shields.io/badge/-PLC-008FCC?style=for-the-badge&logo=siemens&logoColor=white)
+  <h3>🔐 Siber Güvenlik</h3>
+  <img src="https://skillicons.dev/icons?i=linux,bash,git,docker&theme=dark" />
+  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" alt="Kali Linux" />
   
-  ### **Siber Güvenlik**
-  ![Kali Linux](https://img.shields.io/badge/-Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
-  ![Parrot OS](https://img.shields.io/badge/-Parrot%20OS-000000?style=for-the-badge&logo=linux&logoColor=white)
-  ![Windows](https://img.shields.io/badge/-Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-  
-  ### **Veri Bilimi & AI**
-  ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-  ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-  ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+  <h3>🤖 Mekatronik & IoT</h3>
+  <img src="https://skillicons.dev/icons?i=arduino,raspberrypi,aws,azure&theme=dark" alt="Mechatronics" />
 </div>
 
-## 🌟 Öne Çıkan Projelerim
+## 🚀 Öne Çıkan Projelerim
 
 <div align="center">
-  <table>
-    <tr>
-      <td width="50%">
-        <h3 align="center">🤖 Endüstriyel Robot Kontrol Sistemi</h3>
-        <div align="center">
-          <a href="https://github.com/caglarbey/endustriyel-robot-kontrol">
-            <img src="https://github-readme-stats.vercel.app/api/pin/?username=caglarbey&repo=endustriyel-robot-kontrol&theme=radical" alt="Robot Kontrol" />
-          </a>
-          <p>Python tabanlı ROS entegrasyonlu robot kontrol sistemi</p>
-        </div>
-      </td>
-      <td width="50%">
-        <h3 align="center">🔐 Siber Güvenlik Aracı</h3>
-        <div align="center">
-          <a href="https://github.com/caglarbey/siber-guvenlik-araci">
-            <img src="https://github-readme-stats.vercel.app/api/pin/?username=caglarbey&repo=siber-guvenlik-araci&theme=radical" alt="Siber Güvenlik" />
-          </a>
-          <p>Pentest otomasyon aracı ve güvenlik analiz platformu</p>
-        </div>
-      </td>
-    </tr>
-    <tr>
-      <td width="50%">
-        <h3 align="center">📊 Veri Analiz Platformu</h3>
-        <div align="center">
-          <a href="https://github.com/caglarbey/veri-analiz-platformu">
-            <img src="https://github-readme-stats.vercel.app/api/pin/?username=caglarbey&repo=veri-analiz-platformu&theme=radical" alt="Veri Analiz" />
-          </a>
-          <p>Pandas ve Matplotlib ile endüstriyel veri analizi</p>
-        </div>
-      </td>
-      <td width="50%">
-        <h3 align="center">🏠 Akıllı Ev Otomasyonu</h3>
-        <div align="center">
-          <a href="https://github.com/caglarbey/akilli-ev-otomasyonu">
-            <img src="https://github-readme-stats.vercel.app/api/pin/?username=caglarbey&repo=akilli-ev-otomasyonu&theme=radical" alt="Akıllı Ev" />
-          </a>
-          <p>Raspberry Pi ve IoT tabanlı ev otomasyon sistemi</p>
-        </div>
-      </td>
-    </tr>
-  </table>
+  <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 20px; margin-top: 20px;">
+    
+    <!-- Proje 1 -->
+    <div style="background: linear-gradient(145deg, #1e1e2e, #2a2a3a); padding: 20px; border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);">
+      <h3>🤖 Robotik Otomasyon</h3>
+      <a href="https://github.com/caglarbey/robotik-otomasyon">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=caglarbey&repo=robotik-otomasyon&theme=radical&show_owner=true" alt="Robotik Otomasyon" />
+      </a>
+      <p>ROS ve Python tabanlı endüstriyel robot kontrol sistemi</p>
+      <img src="https://img.shields.io/github/stars/caglarbey/robotik-otomasyon?style=social" alt="Stars" />
+    </div>
+    
+    <!-- Proje 2 -->
+    <div style="background: linear-gradient(145deg, #1e1e2e, #2a2a3a); padding: 20px; border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);">
+      <h3>📈 Veri Analiz Platformu</h3>
+      <a href="https://github.com/caglarbey/veri-analiz">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=caglarbey&repo=veri-analiz&theme=radical&show_owner=true" alt="Veri Analiz" />
+      </a>
+      <p>Pandas, NumPy ve Matplotlib ile veri görselleştirme</p>
+      <img src="https://img.shields.io/github/last-commit/caglarbey/veri-analiz?color=blue&style=flat" alt="Last Commit" />
+    </div>
+    
+    <!-- Proje 3 -->
+    <div style="background: linear-gradient(145deg, #1e1e2e, #2a2a3a); padding: 20px; border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);">
+      <h3>🛡️ Pentest Framework</h3>
+      <a href="https://github.com/caglarbey/pentest-framework">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=caglarbey&repo=pentest-framework&theme=radical&show_owner=true" alt="Pentest Framework" />
+      </a>
+      <p>Python tabanlı penetrasyon testi aracı</p>
+      <img src="https://img.shields.io/github/forks/caglarbey/pentest-framework?style=social" alt="Forks" />
+    </div>
+    
+    <!-- Proje 4 -->
+    <div style="background: linear-gradient(145deg, #1e1e2e, #2a2a3a); padding: 20px; border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);">
+      <h3>🏠 Akıllı Ev Sistemleri</h3>
+      <a href="https://github.com/caglarbey/akilli-ev">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=caglarbey&repo=akilli-ev&theme=radical&show_owner=true" alt="Akıllı Ev" />
+      </a>
+      <p>IoT tabanlı akıllı ev otomasyonu</p>
+      <img src="https://img.shields.io/github/issues/caglarbey/akilli-ev?color=green&style=flat" alt="Issues" />
+    </div>
+  </div>
 </div>
 
-## 📊 GitHub İstatistiklerim
+## 📊 GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=caglarbey&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=caglarbey&theme=radical&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caglarbey&layout=compact&langs_count=8&theme=radical&hide_border=true"/>
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=caglarbey&theme=radical" alt="Profile Details" />
+  
+  <div style="display: flex; justify-content: center; gap: 20px; margin-top: 20px;">
+    <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=caglarbey&theme=radical" alt="Repos per Language" />
+    <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=caglarbey&theme=radical" alt="Most Commit Language" />
+  </div>
+  
+  <img height="180em" src="https://github-readme-activity-graph.vercel.app/graph?username=caglarbey&theme=radical&area=true&hide_border=true" alt="Activity Graph" />
 </div>
 
-## 📫 Bana Ulaşın
+## 📬 İletişim
 
 <div align="center">
-  <a href="https://linkedin.com/in/caglarkapcak">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
   <a href="mailto:caglarkapcak433@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  <a href="https://linkedin.com/in/caglarkapcak">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://medium.com/@caglarkapcak433">
-    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/>
+    <img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" />
   </a>
 </div>
