@@ -1,9 +1,6 @@
 <div align="center">
-  <!-- Dinamik Yazı -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=32&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=900&lines=Mekatronik+M%C3%BChendisi+%7C+Python+%26+AI+Geliştirici+%7C+Otomasyon+Uzmanı" alt="Dynamic Typing" />
-  
-  <!-- GitHub Snake -->
-  <img src="https://raw.githubusercontent.com/caglarbey/caglarbey/output/github-contribution-grid-snake.svg" alt="GitHub Snake" />
+  <!-- Başlık görseli -->
+  <img src="https://via.placeholder.com/900x150.png?text=Mekatronik+M%C3%BChendisi" alt="Mekatronik Mühendisi" style="border-radius: 10px; box-shadow: 0 4px 10px rgba(0,0,0,0.3);" />
 </div>
 
 ## 🔥 Teknoloji Stack'im
