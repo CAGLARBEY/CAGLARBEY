@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Çağlar%20Kapçak&fontSize=60&fontAlignY=35&animation=fadeIn" alt="Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Çağlar%20Kapcak&fontSize=60&fontAlignY=35&animation=fadeIn" alt="Header" />
   
   <h3>⚡ Mekatronik Mühendisi | Siber Güvenlik Uzmanı | Python Geliştirici ⚡</h3>
   
@@ -24,8 +24,8 @@
   
   ### **Siber Güvenlik**
   ![Kali Linux](https://img.shields.io/badge/-Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
-  ![Metasploit](https://img.shields.io/badge/-Metasploit-258FFA?style=for-the-badge)
-  ![Burp Suite](https://img.shields.io/badge/-Burp%20Suite-000000?style=for-the-badge)
+  ![Parrot OS](https://img.shields.io/badge/-Parrot%20OS-000000?style=for-the-badge&logo=linux&logoColor=white)
+  ![Windows](https://img.shields.io/badge/-Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
   
   ### **Veri Bilimi & AI**
   ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
@@ -88,15 +88,6 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caglarbey&layout=compact&langs_count=8&theme=radical&hide_border=true"/>
 </div>
 
-## 🏆 Başarılarım
-
-<div align="center">
-  
-  ![Trophy](https://github-profile-trophy.vercel.app/?username=caglarbey&theme=radical&no-frame=true&row=2&column=4)
-  
-  <p>💻 10.000+ Kod Satırı | 🏅 5+ Hackathon | 📚 20+ Tamamlanmış Proje</p>
-</div>
-
 ## 📫 Bana Ulaşın
 
 <div align="center">
@@ -109,11 +100,4 @@
   <a href="https://medium.com/@caglarkapcak433">
     <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/>
   </a>
-  <a href="https://twitter.com/caglarkapcak">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
-  </a>
-</div>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=caglarbey&label=PROFİL+GÖRÜNTÜLENME&color=blue&style=flat" alt="Profil Görüntülenme" />
 </div>
